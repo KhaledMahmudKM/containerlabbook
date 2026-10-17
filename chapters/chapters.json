@@ -1,0 +1,18 @@
+[
+  { "separator": "Part I · Foundations" },
+  "01-introduction.md",
+  "02-installation.md",
+  "03-core-concepts.md",
+  "04-first-lab.md",
+  "05-topology-file.md",
+  { "separator": "Part II · Building & Operating Labs" },
+  "06-network-os-kinds.md",
+  "07-links-and-topologies.md",
+  "08-startup-configs.md",
+  "09-accessing-nodes.md",
+  "10-clos-fabric.md",
+  "11-automation-and-graphing.md",
+  "12-troubleshooting.md",
+  { "separator": "Appendix" },
+  "glossary.md"
+]
